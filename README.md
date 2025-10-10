@@ -84,5 +84,5 @@ Steps (high level):
 
 ## 👤 Author
 **Abdirashid Omar**  
-GitHub: https://github.com/rashiedomar1-spec  
+GitHub: https://github.com/rashiedomar
 Email: rashiidmatan@gmail.com
