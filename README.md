@@ -9,26 +9,25 @@ This project analyzes discussions (e.g., Reddit) to surface popular **dishes, in
 
 ## 📂 Repository Structure
 
-CSV Files/
-  ├── korean_food_subreddit_raw.csv
-  └── korean_food_subreddit_processed.csv
+**CSV Files/**
+- `korean_food_subreddit_raw.csv` - Raw scraped data
+- `korean_food_subreddit_processed.csv` - Cleaned data
 
-Codes/
-  ├── analyzing_visualization.html
-  ├── preprocessing_step.html
-  └── reddit_crowling.html
+**Codes/**
+- `analyzing_visualization.html` - Analysis and visualization notebook
+- `preprocessing_step.html` - Data preprocessing notebook
+- `reddit_crowling.html` - Reddit scraping notebook
 
-Results_including_PPT/
-  ├── A Tourist's Taste. O M A R M2024773.pdf
-  ├── lda_visualization_reddit_food_FINALL.html   # interactive LDA viz
-  ├── output.png                                  # bar/summary plot
-  └── Word cloud Output.png                       # word cloud
-
-
+**Results_including_PPT/**
+- `A Tourist's Taste. O M A R M2024773.pdf` - Final report
+- `lda_visualization_reddit_food_FINALL.html` - Interactive LDA visualization
+- `output.png` - Bar/summary plot
+- `Word cloud Output.png` - Word cloud visualization
 
 > The original notebooks were exported to **HTML** so you can read the full workflow without setting up Python.
 
 ---
+
 ## 🔎 What’s inside
 
 - **Data**  
